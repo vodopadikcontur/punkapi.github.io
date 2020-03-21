@@ -83,10 +83,10 @@
 }
 @media screen and (max-width: 575px) {
     .card-beer:hover {
-        height: 390px;
+        /*height: 390px;*/
     }
 }
-#fd {
+#beer-order {
     display: flex;
     flex-wrap: wrap;
     width: 90%;
